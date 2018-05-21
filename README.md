@@ -1,2 +1,2 @@
 # helloworld
-just another repository
+Hi everyone just started coding, trying to master python eventually.
